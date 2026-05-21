@@ -5,3 +5,4 @@ import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 import tinyarray
 from scipy import constants
+# Parámetros físicos
